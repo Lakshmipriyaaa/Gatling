@@ -1,0 +1,2 @@
+P_cardType,P_creditCard,P_expiryDate,P_billToFirstName,P_billToLastName,P_billAddress1,P_billAddress2,P_billCity,P_billState,P_billZip,P_billCountry
+Visa,999 9999 9999 9999,12/03,admin,admin,ABC,ABC,Bengaluru,Karnataka,560000,INDIA
